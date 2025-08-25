@@ -1,6 +1,6 @@
 <div align="center">
 
-## hi, im frozennpenguin ヾ(˶ᵔ ᗜ ᵔ˶)
+## hi, im frozenpenguin ヾ(˶ᵔ ᗜ ᵔ˶)
 
 ₍^. .^₎Ⳋ
 
