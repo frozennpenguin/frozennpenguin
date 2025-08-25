@@ -6,6 +6,8 @@
 
 i write code sometimes
 
+</div>
+
 <br>
 
 i like cats, rain, udon, and emoticons
@@ -19,6 +21,8 @@ i am also interested in linguistics, robotics and space ◉ _ ◉
 i want to make cool stuff
 
 <br>
+
+<div align="center">
 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=50&theme=basic&rotate=0)](https://moon-svg.minung.dev)
 
