@@ -10,7 +10,7 @@ i write code sometimes
 
 i like cats, rain, udon, and emoticons
 
-i am working on my website and grinding problems on codeforces
+i am working on procrastinating on working on my website and grinding problems on codeforces
 
 i am trying to learn blender, japanese, and go (the game not the language)
 
