@@ -30,10 +30,10 @@ i write code sometimes
 
 |  <img style="display: block;margin: auto;height: 50px; background-color: hsla(0, 0%, 0%, 0);" src="https://media.tenor.com/5GMAJC6pQUUAAAAj/sumikko-gurashi.gif"> |
 | ---- |
-| <img style="width: 30px; background-color: hsla(0, 0%, 0%, 0);" src="https://media.tenor.com/wH5dxMpEEYUAAAAj/thumbs-up-cute.gif">  --- i like cats, rain, udon, and emoticons |
-| <img style="width: 30px; background-color: hsla(0, 0%, 0%, 0);" src="https://media.tenor.com/uXjkduzKlZYAAAAj/ryry-slept-on-me-milk-and-mocha.gif"> --- i am working on procrastinating on working on my website and grinding problems on codeforces |
-| <img style="width: 30px; background-color: hsla(0, 0%, 0%, 0);" src="https://media.tenor.com/6siBSUWcpCcAAAAj/reading-smart.gif"> --- i am trying to learn blender, japanese, and go (the game not the language) |
-| <img style="width: 30px; background-color: hsla(0, 0%, 0%, 0);" src="https://media.tenor.com/h00vfjqfwF0AAAAj/cute-lovely.gif"> --- i am also interested in linguistics, engineering, and astrophysics |
+| ٩(, ͈ᴖ ̥ᴖ ͈)۶ --- i like cats, rain, udon, and emoticons |
+| ૮( ͈ᴗ ̭ᴗ ͈')ა --- i am working on procrastinating on working on my website and grinding problems on codeforces |
+| (, , ͈ᴗ̀ ̬ᴗ́ ͈)ง --- i am trying to learn blender, japanese, and go (the game not the language) |
+| (,  ͈ò ̥ó ͈) ! --- i am also interested in linguistics, engineering, and astrophysics |
 
 <br>
 
