@@ -28,16 +28,16 @@ i write code sometimes
 
 -->
 
-|  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(); height:50px" src="https://media.tenor.com/X6oLkn9sBewAAAAj/sparklepandalana-penguin.gif"> |
+|  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl();height: 50px" src="https://media.tenor.com/5GMAJC6pQUUAAAAj/sumikko-gurashi.gif">  |
 | ---- |
 | i like cats, rain, udon, and emoticons |
 | i am working on procrastinating on working on my website and grinding problems on codeforces |
 | i am trying to learn blender, japanese, and go (the game not the language) |
 | i am also interested in linguistics, engineering, and astrophysics |
-| i want to make cool stuff |   
 
 <br>
 
+idk what i am doing but i want to make cool stuff  
 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=50&theme=basic&rotate=0)](https://moon-svg.minung.dev)
 
