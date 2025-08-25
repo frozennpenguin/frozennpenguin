@@ -28,7 +28,7 @@ i write code sometimes
 
 -->
 
-|  <img style="display: block;margin: auto;height: 50px; background-color: hsla(0, 0%, 0%, 0); -webkit-user-select: none;" src="https://media.tenor.com/5GMAJC6pQUUAAAAj/sumikko-gurashi.gif"> |
+|  <img style="display: block;margin: auto;height: 50px; background-color: hsla(0, 0%, 0%, 0);" src="https://media.tenor.com/5GMAJC6pQUUAAAAj/sumikko-gurashi.gif"> |
 | ---- |
 | <img style="width: 30px; background-color: hsla(0, 0%, 0%, 0);" src="https://media.tenor.com/wH5dxMpEEYUAAAAj/thumbs-up-cute.gif">  --- i like cats, rain, udon, and emoticons |
 | <img style="width: 30px; background-color: hsla(0, 0%, 0%, 0);" src="https://media.tenor.com/uXjkduzKlZYAAAAj/ryry-slept-on-me-milk-and-mocha.gif"> --- i am working on procrastinating on working on my website and grinding problems on codeforces |
